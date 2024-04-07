@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Competing other bots"];
+const statusMessages = ["Slowing developing"];
 
 
 let currentIndex = 0;
