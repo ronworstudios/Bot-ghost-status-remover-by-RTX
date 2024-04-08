@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Slowing developing"];
+const statusMessages = ["💫 Slowing developing"];
 
 
 let currentIndex = 0;
