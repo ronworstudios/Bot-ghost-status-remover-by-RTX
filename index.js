@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Verifying members","Watching Yanna server"];
+const statusMessages = ["Verifying members","Watching Bread's Dome"];
 
 
 let currentIndex = 0;
