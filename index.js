@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["✨ Powered by sweetbread","Listening to Studio Team","👀 Watching Double Z Server"];
+const statusMessages = ["✨ Powered by qtbread","Listening to Studio Team","Watching Double Z Server"];
 
 
 let currentIndex = 0;
